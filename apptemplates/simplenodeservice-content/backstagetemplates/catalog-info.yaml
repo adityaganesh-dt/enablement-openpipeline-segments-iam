@@ -14,12 +14,12 @@ metadata:
     - url: https://github.com/adityaganesh-dt/enablement-openpipeline-segments-iam.git
       title: Github Repo
       icon: github
-    - url: https://laughing-doodle-qwq7g7wj4wvc4jxv-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://laughing-doodle-qwq7g7wj4wvc4jxv-80.app.github.dev/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
       icon: catalog
-      url: https://laughing-doodle-qwq7g7wj4wvc4jxv-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+      url: https://laughing-doodle-qwq7g7wj4wvc4jxv-30100.app.github.dev/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
     - title: View in Dynatrace
       icon: catalog
       url: https://eok84652.apps.dynatrace.com
